@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/michael-pruss/contoso-air-trial/_apis/build/status/MichaelP1987.ContosoAir?branchName=master)](https://dev.azure.com/michael-pruss/contoso-air-trial/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
